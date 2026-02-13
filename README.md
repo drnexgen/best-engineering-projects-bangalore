@@ -62,5 +62,5 @@ This page includes:
 
 ## 🔹 Maintained By
 
-**DR NEXGEN PVT LTD**  
+**DR NexGen Pvt Ltd**  
 🌐 https://www.drnexgen.com
